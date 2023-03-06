@@ -1,1 +1,3 @@
-no co, gówno jebane ale jest tak
+Personal CV page
+made in html and css
+basic functionality
